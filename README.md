@@ -7,3 +7,15 @@ Run this command:
 ```bash
 yarn install
 ```
+
+## Frontend
+Run this command:
+```bash
+yarn start
+```
+
+## Backend
+Run this comman:
+```bash
+yarn dev
+```
