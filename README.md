@@ -9,13 +9,13 @@ yarn install
 ```
 
 ## Frontend
-Run this command:
+Run this command to start:
 ```bash
 yarn start
 ```
 
 ## Backend
-Run this comman:
+Run this command to start:
 ```bash
 yarn dev
 ```
